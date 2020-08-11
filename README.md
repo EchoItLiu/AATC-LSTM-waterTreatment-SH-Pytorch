@@ -4,3 +4,7 @@
   
 ![Image text](https://raw.github.com/EchoItLiu/repositpry/master/AATC-LSTM-waterTreatment-SH-Pytorch
 /img/图片1.png)
+
+![Image text](http://raw.github.com/EchoItLiu/repository/master/img/图片1.png)
+
+
